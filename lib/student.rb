@@ -9,6 +9,8 @@ class Student
     @id = id
   end
   
-  def sql.create
+  def create_table
+    SQL 
+  end
   
 end
